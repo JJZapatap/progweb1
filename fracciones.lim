@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>APRENDIENDO SOBRE LAS FRACCIONES</titulo>
+        <autor>Jose Javier Zapata</autor>
+        <logo>fraction.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-27">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-27">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-27">Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <texto posx="50" posy="50" ancho="687" largo="359"><![CDATA[<font size="12"><iframe width="640" height="480" src="https://www.youtube.com/embed/c9cTIjBqFTw?si=93KsvXIUjb8n_6e5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>9</tipo>
+              <imaxe>Diapositiva1.JPG</imaxe>
+              <liga posx="50" posy="300" ir="1">Pagina1</liga>
+              <liga posx="225" posy="300" ir="https://www.youtube.com/watch?v=37DTLwh8sUc">Video </liga>
+        </paxina>
+        <paxina id="6" >
+              <tipo>41</tipo>
+            <modo>0</modo>
+            <forma>+</forma>
+            <numero>1</numero>
+            <numero>1</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>41</tipo>
+            <modo>0</modo>
+            <forma>x</forma>
+            <numero>1</numero>
+            <numero>1</numero>
+        </paxina>
+    </libro>
+</lim>
